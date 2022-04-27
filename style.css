@@ -1,3 +1,36 @@
-body { 
-    background-color: lightblue;
+
+
+h2 {
+    color: #007e7e;
+}
+
+h4 { color: #d12c47;}
+
+#garantie{
+    background-color: #a7cece;
+    font-style: oblique; 
+    color: #444444;
+    background-image: url(bilder/hintergrund.gif); 
+    background-repeat: no-repeat;
+    padding-left: 50px; 
+    padding-top: 50px; 
+    padding-bottom: 50px;
+    margin: 30px;
+    border: dashed 1px white; 
+    margin-right: 350px; 
+}
+
+#elexire {
+    float: right; 
+    width: 280px;
+    border: 1px solid #007e7e ;
+    padding: 10px;
+    text-align: center;
+    margin-left: 30px;
+}
+
+body {
+      width: 1000px;
+      margin: auto;
+
 }
